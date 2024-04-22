@@ -17,7 +17,7 @@ You’ll make the following updates to the provided Python file for this assignm
 
 
 ### Screenshot of genesis block.
-![Genesis](genesisblock.png)
+![Genesis](Genesisblock.png)
 
 
 ### Screenshot of block added to ledger.
