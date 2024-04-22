@@ -17,14 +17,14 @@ You’ll make the following updates to the provided Python file for this assignm
 
 
 ### Screenshot of genesis block.
-![genesis](genesisblock.png)
+![Genesis](genesisblock.png)
 
 
 ### Screenshot of block added to ledger.
 ![ledger](addblock.png)
 
 
-### Sccreenshot of block # 6 Record.
+### Screenshot of block # 6 Record.
 ![6](blockrecord.png)
 
 
